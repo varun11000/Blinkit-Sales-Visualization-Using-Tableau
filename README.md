@@ -1,7 +1,7 @@
 # Sales Analysis for Blinkit
 # Project Overview
 This project aims to perform an in-depth sales analysis for Target Company by utilizing  Tableau for data management, processing, and visualization. The analysis provides insights into key business metrics such as sales trends, customer behavior, and product performance.
-# Tools and Technologies
+# Tools and Technology
 - **Tableau:** Used for data visualization and creating interactive dashboards to present insights.
 # Dataset Overview
 The dataset consisted of the following tables:
